@@ -7,7 +7,7 @@ permalink: /projects/oidsi-pnw/
 # OIDSI-PNW Website
 
 **Role:** Full-stack Web Developer  
-**Dates:** 2024 – 2025  
+**Dates:** October 2022 – Present
 **Stack:** Vue 3, Vite, Bootstrap 5, TypeScript, Playwright (e2e), GitHub Actions, AWS S3 + CloudFront
 
 ## Overview

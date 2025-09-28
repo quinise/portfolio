@@ -7,7 +7,7 @@ permalink: /projects/online-obi/
 # Online Obi
 
 **Role:** Web Developer  
-**Dates:** (add date range)  
+**Dates:** September 2023  
 **Stack:** React, JavaScript, HTML, CSS  
 
 ## Overview

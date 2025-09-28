@@ -7,7 +7,7 @@ permalink: /projects/roller-derby-api/
 # Roller Derby API
 
 **Role:** Web Developer  
-**Dates:** (add date range)  
+**Dates:** July 2023  
 **Stack:** Node.js, EJS, CSS/Bootstrap, Angular.js (for docs), Sketch  
 
 ## Overview
