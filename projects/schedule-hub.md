@@ -1,0 +1,36 @@
+---
+title: Schedule Hub App
+layout: default
+permalink: /projects/schedule-hub/
+---
+
+# Schedule Hub App
+
+**Role:** Full-stack Developer  
+**Dates:** (add date range)  
+**Stack:** Angular, TypeScript, Bootstrap, Spring Boot (Java), PostgreSQL  
+
+## Overview
+The Schedule Hub is a booking system that integrates a full Angular frontend with a Spring Boot backend. It enables users to schedule appointments while enforcing conflict detection rules to prevent overlapping or invalid bookings.
+
+## Highlights
+- Built a **full-stack scheduling system** using Angular 19 and Spring Boot.  
+- Implemented **conflict detection logic** in the backend to enforce buffer rules for appointments and events.  
+- Designed Angular components for **calendar view** and **list view**, including admin-only features.  
+- Created shared filtering and form components to streamline appointment creation and editing.  
+
+## Technical Details
+- **Frontend:** Angular 19 standalone components with Bootstrap styling; used FullCalendar for event views.  
+- **Backend:** Spring Boot services with PostgreSQL database; included `Appointment` and `Event` entities, DTOs, and repositories.  
+- **Conflict Handling:** Buffer enforcement logic implemented in `ScheduleConflictService` and validated in both frontend and backend.  
+- **Testing:** Unit tests with JUnit for backend services and Jasmine/Karma for Angular components.  
+
+## Challenges & Solutions
+- **Problem:** Scheduling conflicts with overlapping times.  
+  **Solution:** Created a custom `ScheduleConflictService` with buffer enforcement rules, validated through both unit and integration tests.  
+
+## Screenshots
+_Add screenshots of booking flow, conflict warning, and calendar view._  
+
+## Links
+- **Repo:** (add repo link if public)  
