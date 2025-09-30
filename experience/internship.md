@@ -1,7 +1,7 @@
 ---
 title: Accord365 Internship
 layout: default
-permalink: /projects/internship/
+permalink: /experience/internship/
 ---
 
 # Accord365 Internship

@@ -1,7 +1,7 @@
 ---
 title: Khepra Ptah Website (Angular)
 layout: default
-permalink: /projects/khepra-ptah/
+permalink: /experience/khepra-ptah/
 ---
 
 # Khepra Ptah’s Website

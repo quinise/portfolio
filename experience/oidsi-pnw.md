@@ -1,7 +1,7 @@
 ---
 title: OIDSI-PNW (Vue + Vite)
 layout: default
-permalink: /projects/oidsi-pnw/
+permalink: /experience/oidsi-pnw/
 ---
 
 # OIDSI-PNW Website
