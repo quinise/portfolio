@@ -27,7 +27,7 @@ permalink: /projects/online-obi/
 ## Screenshots
 
 <figure>
-  <img src="/images/obi-homepage.png" alt="Online Obi app home page" class="project-screenshot">
+  <img src="/images/obi-home.png" alt="Online Obi app home page" class="project-screenshot">
   <figcaption>Online Obi home page</figcaption>
 </figure>
 
