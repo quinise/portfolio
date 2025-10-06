@@ -1,12 +1,24 @@
 title: Quinise's Portfolio
 description: Software projects and professional experience
-theme: jekyll-theme-cayman
+
+# Cayman via remote_theme (official)
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
 markdown: kramdown
 permalink: pretty
+
 github:
   is_project_page: false
+
+# Apply default layout to all pages
 defaults:
   - scope:
       path: ""
     values:
       layout: default
+
+# user site settings
+url: https://quinise.github.io
+baseurl: ""

@@ -1,6 +1,6 @@
 ---
+title: Home
 layout: default
-title: Quinise's Portfolio
 ---
 
 <!doctype html>

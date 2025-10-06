@@ -36,7 +36,7 @@ Built a responsive single-page application for Khepra Ptah, highlighting his Rei
 ## Screenshots
 
 <figure>
-  <img src="/images/khepra-home.png" alt="Khepra Ptah's home page" class="project-screenshot">
+  <img src="/assets/images/khepra-home.png" alt="Khepra Ptah's home page" class="project-screenshot">
   <figcaption>Site home page</figcaption>
 </figure>
 

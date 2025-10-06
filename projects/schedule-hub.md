@@ -30,22 +30,22 @@ The Schedule Hub is a booking system that integrates a full Angular frontend wit
 
 ## Challenges & Solutions
 
-- **Problem:** Scheduling conflicts with overlapping times.  
+- **Problem:** Scheduling conflicts with overlapping times.
   **Solution:** Created a custom `ScheduleConflictService` with buffer enforcement rules, validated through both unit and integration tests.
 
 ## Screenshots
 <figure>
-  <img src="/images/schedule-landing.png" alt="Schedule Hub app landing page" class="project-screenshot">
+  <img src="/assets/images/schedule-landing.png" alt="Schedule Hub app landing page" class="project-screenshot">
   <figcaption>Schedule Hub app – landing page</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/schedule-calendar.png" alt="Schedule Hub app calendar view" class="project-screenshot">
+  <img src="/assets/images/schedule-calendar.png" alt="Schedule Hub app calendar view" class="project-screenshot">
   <figcaption>Schedule Hub app calendar view</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/schedule-admin.png" alt="Schedule Hub app admin panel" class="project-screenshot">
+  <img src="/assets/images/schedule-admin.png" alt="Schedule Hub app admin panel" class="project-screenshot">
   <figcaption>Schedule Hub app admin listed calendar items view </figcaption>
 </figure>
 
