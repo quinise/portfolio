@@ -1,8 +1,7 @@
-title: Portfolio
-theme: minima
+title: Quinise's Portfolio
+description: Software projects and professional experience
+theme: jekyll-theme-cayman
 markdown: kramdown
 permalink: pretty
-minima:
-  nav_pages:
-    - projects/index.html
-    - experience/index.html
+github:
+  is_project_page: false
