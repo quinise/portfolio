@@ -2,3 +2,7 @@ title: Portfolio
 theme: minima
 markdown: kramdown
 permalink: pretty
+minima:
+  nav_pages:
+    - projects/index.html
+    - experience/index.html
