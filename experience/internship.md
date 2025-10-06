@@ -51,10 +51,6 @@ As an engineering intern on the **Accord365** project, I contributed to both bac
 - Regularly interfaced with the client, ensuring transparency and alignment.
 - Reached out for support on specific blockers (routing and architecture).
 
-## Screenshots
-
-_Add images or wireframes here if available._
-
 ## Links
 
 - **Repo:** [https://github.com/quinise/Accord365_gin_development](https://github.com/quinise/Accord365_gin_development)

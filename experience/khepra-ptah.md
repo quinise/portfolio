@@ -30,7 +30,8 @@ Built a responsive single-page application for Khepra Ptah, highlighting his Rei
   **Solution:** Used Bootstrap’s responsive embeds and media queries to preserve layout consistency across devices.  
 
 ## Screenshots
-_Add images here (homepage, service section, embedded video)._  
+
+<img src="/images/khepra-home.png" alt="Khepra Ptah's home page" class="project-screenshot">
 
 ## Links
 - **Live:** [https://khepraptah-ifa.web.app](https://khepraptah-ifa.web.app)  

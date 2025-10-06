@@ -35,7 +35,11 @@ The Schedule Hub is a booking system that integrates a full Angular frontend wit
 
 ## Screenshots
 
-_Add screenshots of booking flow, conflict warning, and calendar view._
+<img src="/images/schedule-landing.png" alt="Schedule Hub app landing page" class="project-screenshot">
+
+<img src="/images/schedule-calendar.png" alt="Schedule Hub app calendar view" class="project-screenshot">
+
+<img src="/images/schedule-admin.png" alt="Schedule Hub app admin panel" class="project-screenshot">
 
 ## Links
 

@@ -24,9 +24,6 @@ The Roller Derby API is a REST-based service providing structured access to roll
 - **Frontend:** EJS templates for rendering; Bootstrap for styling.  
 - **Documentation:** Angular.js client with routes for API usage.  
 
-## Screenshots
-_Add images of API docs and endpoints browser._  
-
 ## Links
 - **Live:** [https://rollerderbyapi.web.app/#/home](https://rollerderbyapi.web.app/#/home)  
 - **Repo:** [https://github.com/quinise/rollerderbyapi](https://github.com/quinise/rollerderbyapi)  

@@ -27,7 +27,10 @@ An original iOS application built in Swift, **My Gem Tarot** integrates tarot ca
 - **Networking:** Async REST calls to Tarot Card Meanings API.  
 
 ## Screenshots
-_Add iOS screen captures of reading view, history, and gem info._  
+
+<img src="/images/tarot-findCard.mp4" alt="MyGemTarot app find card and see details feature" class="project-screenshot">
+
+<img src="/images/tarot-edit.gif" alt="MyGemTarot app edit card notes feature" class="project-screenshot">
 
 ## Links
 - **Repo:** [https://github.com/quinise/MyGemTarot](https://github.com/quinise/MyGemTarot)  

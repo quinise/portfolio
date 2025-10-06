@@ -18,3 +18,10 @@ header nav a {
 header nav a:hover {
   color: #007acc;
 }
+
+img.project-screenshot {
+  max-width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  margin: 1rem 0;
+}

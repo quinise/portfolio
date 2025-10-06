@@ -35,7 +35,9 @@ The OIDSI-PNW site is a single-page application built with Vue and Vite. It was 
 
 ## Screenshots
 
-_Add images here (e.g., homepage, gallery, about)._
+<img src="/images/oidsi-tests-passing.png" alt="OIDSI-PNW site Playwright tests passing" class="project-screenshot">
+
+<img src="/images/oidsi-test-details.png" alt="OIDSI-PNW site contact form test details passing" class="project-screenshot">
 
 ## Links
 

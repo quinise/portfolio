@@ -25,7 +25,16 @@ permalink: /projects/online-obi/
 - **Deployment:** Hosted on Firebase with public GitHub repository.  
 
 ## Screenshots
-_Add screenshots here (homepage, navigation, resource view)._  
+
+<img src="/images/obi-homepage.png" alt="Online Obi app home page" class="project-screenshot">
+
+<img src="/images/cast.gif" alt="Performing divination on the Online Obi app" class="project-screenshot">
+
+<img src="/images/cast-details.png" alt="Divination details from Online Obi app" class="project-screenshot">
+
+<img src="/images/obi-history.png" alt="Online Obi app divination history" class="project-screenshot">
+
+<img src="/images/obi-cast-recording.mov" alt="Schedule Hub app landing page" class="project-screenshot">
 
 ## Links
 - **Live:** [https://obi-project-397801.web.app/](https://obi-project-397801.web.app/)  
