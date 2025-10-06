@@ -39,4 +39,4 @@ layout: default
   <footer>© <span id="y"></span></footer>
   <script>document.getElementById('y').textContent = new Date().getFullYear();</script>
 </body>
-</html> 
+</html>
