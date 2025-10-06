@@ -1,6 +1,6 @@
 ---
 title: Experience
-layout: default
+# layout: default
 permalink: /experience/
 ---
 
