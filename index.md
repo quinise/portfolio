@@ -3,8 +3,6 @@ title: Home
 layout: default
 ---
 
-<!doctype html>
-<html lang="en">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
@@ -39,4 +37,3 @@ layout: default
   <footer>© <span id="y"></span></footer>
   <script>document.getElementById('y').textContent = new Date().getFullYear();</script>
 </body>
-</html>
