@@ -28,9 +28,15 @@ An original iOS application built in Swift, **My Gem Tarot** integrates tarot ca
 
 ## Screenshots
 
-<img src="/images/tarot-findCard.mp4" alt="MyGemTarot app find card and see details feature" class="project-screenshot">
+<figure>
+  <img src="/images/tarot-findCard.mp4" alt="MyGemTarot app find card and see details feature" class="project-screenshot">
+  <figcaption>MyGemTarot app demo – user finding a card and viewing its details</figcaption>
+</figure>
 
-<img src="/images/tarot-edit.gif" alt="MyGemTarot app edit card notes feature" class="project-screenshot">
+<figure>
+  <img src="/images/tarot-edit.gif" alt="MyGemTarot app edit card notes feature" class="project-screenshot">
+  <figcaption>MyGemTarot app demo – user viewing saved card notes</figcaption>
+</figure>
 
 ## Links
 - **Repo:** [https://github.com/quinise/MyGemTarot](https://github.com/quinise/MyGemTarot)  

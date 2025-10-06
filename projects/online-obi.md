@@ -26,15 +26,30 @@ permalink: /projects/online-obi/
 
 ## Screenshots
 
-<img src="/images/obi-homepage.png" alt="Online Obi app home page" class="project-screenshot">
+<figure>
+  <img src="/images/obi-homepage.png" alt="Online Obi app home page" class="project-screenshot">
+  <figcaption>Online Obi home page</figcaption>
+</figure>
 
-<img src="/images/cast.gif" alt="Performing divination on the Online Obi app" class="project-screenshot">
+<figure>
+  <img src="/images/cast.gif" alt="Performing divination on the Online Obi app" class="project-screenshot">
+  <figcaption>Online Obi app demo – user generating a divination cast</figcaption>
+</figure>
 
-<img src="/images/cast-details.png" alt="Divination details from Online Obi app" class="project-screenshot">
+<figure>
+  <img src="/images/cast-details.png" alt="Divination details from Online Obi app" class="project-screenshot">
+  <figcaption>Online Obi app – divination details</figcaption>
+</figure>
 
-<img src="/images/obi-history.png" alt="Online Obi app divination history" class="project-screenshot">
+<figure>
+  <img src="/images/obi-history.png" alt="Online Obi app divination history" class="project-screenshot">
+  <figcaption>Online Obi app – saved divination history list</figcaption>
+</figure>
 
-<img src="/images/obi-cast-recording.mov" alt="Schedule Hub app landing page" class="project-screenshot">
+<figure>
+  <img src="/images/obi-cast-recording.mov" alt="Schedule Hub app landing page" class="project-screenshot">
+  <figcaption>Online Obi app demo – user casting readings</figcaption>
+</figure>
 
 ## Links
 - **Live:** [https://obi-project-397801.web.app/](https://obi-project-397801.web.app/)  

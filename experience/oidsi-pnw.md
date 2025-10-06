@@ -34,10 +34,15 @@ The OIDSI-PNW site is a single-page application built with Vue and Vite. It was 
   **Solution:** Implemented SPA fallback (`index.html` copied to `404.html`) and CloudFront behavior rules.
 
 ## Screenshots
+<figure>
+  <img src="/images/oidsi-tests-passing.png" alt="OIDSI-PNW site Playwright tests passing" class="project-screenshot">
+  <figcaption>OIDSI-PNW end-to-end tests passing</figcaption>
+</figure>
 
-<img src="/images/oidsi-tests-passing.png" alt="OIDSI-PNW site Playwright tests passing" class="project-screenshot">
-
-<img src="/images/oidsi-test-details.png" alt="OIDSI-PNW site contact form test details passing" class="project-screenshot">
+<figure>
+  <img src="/images/oidsi-test-details.png" alt="OIDSI-PNW site contact form test details passing" class="project-screenshot">
+  <figcaption>OIDSI-PNW site contact form test passing details</figcaption>
+</figure>
 
 ## Links
 

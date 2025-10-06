@@ -25,3 +25,21 @@ img.project-screenshot {
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
   margin: 1rem 0;
 }
+
+figure {
+  text-align: center;
+  margin: 1.5rem 0;
+}
+
+figure img {
+  max-width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+figcaption {
+  font-size: 0.9rem;
+  color: #555;
+  margin-top: 0.5rem;
+  font-style: italic;
+}
