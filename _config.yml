@@ -14,10 +14,8 @@ github:
 
 # Apply default layout to all pages
 defaults:
-  - scope:
-      path: ""
-    values:
-      layout: default
+  - scope: { path: "" }
+    values: { layout: default }
 
 # user site settings
 url: https://quinise.github.io
