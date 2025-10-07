@@ -20,16 +20,20 @@ header {
   text-align: center;
 }
 
-.page-links a {
-  color: #fff;
+/* Ensure header nav links match the white text inside Cayman's banner */
+.page-header a,
+.page-header a:visited {
+  color: #fff !important;
   text-decoration: none;
-  margin: 0 0.4rem;
   font-weight: 600;
 }
 
-.page-links a:hover {
+.page-header a:hover,
+.page-header a:focus {
   text-decoration: underline;
+  color: #fff !important;
 }
+
 
 img.project-screenshot {
   max-width: 100%;
