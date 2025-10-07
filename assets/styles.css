@@ -46,7 +46,7 @@ figcaption {
 
 .site-footer {
   max-width: 64rem;
-  margin: 2rem auto 0;
+  margin: 0 auto;
   padding: 1rem 2rem;
   text-align: center;
   display: block;
