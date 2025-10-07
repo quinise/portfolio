@@ -33,7 +33,4 @@ layout: default
       <article class="card"><h3><a href="/experience/">Professional Experience</a></h3><p>Programming and development roles</p></article>
     </section>
   </main>
-
-  <footer>© Quinise Ercolano <span id="year"></span></footer>
-  <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
 </body>
