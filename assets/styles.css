@@ -43,3 +43,11 @@ figcaption {
   margin-top: 0.5rem;
   font-style: italic;
 }
+
+.site-footer {
+  max-width: 64rem;
+  margin: 2rem auto 0;
+  padding: 1rem 2rem;
+  text-align: center;
+  display: block;
+}
