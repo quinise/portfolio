@@ -52,6 +52,6 @@ The Schedule Hub is a booking system that integrates a full Angular frontend wit
 
 ## Links
 
-- **Repos:** 
+**Repos:**
 - Backend: [https://github.com/quinise/ScheduleHub-backend](https://github.com/quinise/ScheduleHub-backend)
 - Frontend: [https://github.com/quinise/ScheduleHub-frontend](https://github.com/quinise/ScheduleHub-frontend)

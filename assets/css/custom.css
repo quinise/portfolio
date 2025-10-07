@@ -20,15 +20,15 @@ header {
   text-align: center;
 }
 
-header nav a {
-  margin: 0 1rem;
+.page-links a {
+  color: #fff;
   text-decoration: none;
-  font-weight: 500;
-  color: #333;
+  margin: 0 0.4rem;
+  font-weight: 600;
 }
 
-header nav a:hover {
-  color: #007acc;
+.page-links a:hover {
+  text-decoration: underline;
 }
 
 img.project-screenshot {
