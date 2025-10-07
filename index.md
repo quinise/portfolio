@@ -34,6 +34,6 @@ layout: default
     </section>
   </main>
 
-  <footer>© <span id="y"></span></footer>
-  <script>document.getElementById('y').textContent = new Date().getFullYear();</script>
+  <footer>© Quinise Ercolano <span id="year"></span></footer>
+  <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
 </body>
