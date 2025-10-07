@@ -34,8 +34,9 @@ The Schedule Hub is a booking system that integrates a full Angular frontend wit
   **Solution:** Created a custom `ScheduleConflictService` with buffer enforcement rules, validated through both unit and integration tests.
 
 ## Screenshots
+
 <figure>
-  <img src="/assets/images/schedule-landing.png" alt="Schedule Hub app landing page" class="project-screenshot">
+  <img src="/assets/images/schedule-landing.jpg" alt="Schedule Hub app landing page" class="project-screenshot">
   <figcaption>Schedule Hub app – landing page</figcaption>
 </figure>
 
